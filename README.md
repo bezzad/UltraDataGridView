@@ -12,7 +12,6 @@ A Win32 DataGridView by columns filtering features.
 3. Add demo code for add data to grid:
 
 	    dgv.Bounds = new Rectangle(10, 10, 445, 420);
-	    dgv.Anchor = ((AnchorStyles)(((AnchorStyles.Top | AnchorStyles.Left) | AnchorStyles.Right | AnchorStyles.Bottom)));
 	    dgv.AllowUserToAddRows = false;
 	
 	    var dt = new DataTable();
@@ -38,3 +37,7 @@ A Win32 DataGridView by columns filtering features.
 		
 		
 ### Screenshots
+
+![screenshot](https://raw.githubusercontent.com/Behzadkhosravifar/UltraDataGridView/master/img/screenshot.png)
+
+![filterScreenshot](https://raw.githubusercontent.com/Behzadkhosravifar/UltraDataGridView/master/img/filterScreenshot.png)
