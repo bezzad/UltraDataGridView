@@ -1,7 +1,7 @@
 # UltraDataGridView
 A Win32 DataGridView by columns filtering features.
 
-### How to Use:
+### How to use:
 
 1. Add the `UltraDataGridView.dll` to your references;
 
